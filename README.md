@@ -418,4 +418,3 @@ One-paragraph description of what it does.
 - Format: PNG or JPG
 - File name: `{project-name}.png` in the `/screenshots` folder
 - Add the image reference right after your project title
-
